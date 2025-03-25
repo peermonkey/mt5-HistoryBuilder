@@ -1,0 +1,5 @@
+MetaTrader5
+pymongo
+pandas
+python-dotenv
+pytz
